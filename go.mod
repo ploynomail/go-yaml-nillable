@@ -1,4 +1,4 @@
-module go-yaml-nillable
+module github.com/ploynomail/go-yaml-nillable
 
 go 1.22.1
 
